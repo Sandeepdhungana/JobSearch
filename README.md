@@ -1,2 +1,2 @@
-# JobSearch
+# freelance-template
 Created with CodeSandbox
